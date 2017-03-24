@@ -1,0 +1,7 @@
+export(board_clean)
+export(board_pretty)
+export(board_dots)
+export(rack_value)
+export(bonus_squares)
+export(board_words)
+exportPattern("^[[:alpha:]]+")

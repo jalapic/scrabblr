@@ -1,0 +1,16 @@
+Package: scrabblr
+Type: Package
+Title: Scrabble datasets and analysis tools
+Version: 0.1.0
+Author: James Curley
+Date: 2017-03-22
+Maintainer: James Curley <jc3181@columbia.edu>
+Description: Contains datasets of simulated scrabble games between
+    expert players and functions for analyzing and visualizing games.
+Depends: R (>= 2.10)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Suggests:
+RoxygenNote: 6.0.1
+Imports:

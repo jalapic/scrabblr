@@ -1,0 +1,34 @@
+#' Datatable of turns taken in scrabble games
+#'
+#' Descriptive statistics of turns taken in
+#' scrabble games played by expert level computer
+#' simulations.
+#'
+#' @format A data frame with 60626 rows and 24 variables:
+#' \describe{
+#'   \item{gameid}{Unique game id}
+#'   \item{turn_game}{Turn in the game}
+#'   \item{player}{Player acting}
+#'   \item{position}{Position on board first tile laid down}
+#'   \item{rack}{Tiles on rack of player}
+#'   \item{move}{Quackle notation of play}
+#'   \item{play}{Alternate notation of play}
+#'   \item{word}{Word played}
+#'   \item{leave}{Tiles left on rack after play}
+#'   \item{points}{Points value of play}
+#'   \item{score}{Score at end of turn}
+#'   \item{word_length}{Length of word made}
+#'   \item{tiles_played}{Tiles played from rack on turn}
+#'   \item{tiles_rack}{Tiles on rack at beginning of turn}
+#'   \item{turn_player}{Turn number of that player}
+#'   \item{rack_value}{Value of tiles on rack at beginning of turn}
+#'   \item{rack_vowels}{Number of vowels on rack at beginning of turn}
+#'   \item{rack_consonants}{Number of consonants on rack at beginning of turn}
+#'   \item{rack_s}{Number of esses on rack at beginning of turn}
+#'   \item{rack_blanks}{Number of blanks on rack at beginning of turn}
+#'   \item{tws}{Number of triple word score squares landed on with play}
+#'   \item{dws}{Number of double word score squares landed on with play}
+#'   \item{tls}{Number of triple letter score squares landed on with play}
+#'   \item{dls}{Number of double letter score squares landed on with play}
+#' }
+"turns"
