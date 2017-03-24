@@ -1,0 +1,41 @@
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: AAEJMTU 8G JEU +20 20
+>Quackle: ACEGNOW 9F WONGA +29 29
+>New_Player_1: AAEHIMT 10J HA +26 46
+>Quackle: ?ACDDER 11E ChEDDAR +100 129
+>New_Player_1: AEEIMNT L4 MATINEE +76 122
+>Quackle: ABBETTU M3 TUBATE +36 165
+>New_Player_1: CEFHIIU K3 FUCI +40 162
+>Quackle: ABEOTYZ I11 .OZY +37 202
+>New_Player_1: EHIINRR 13F RHI.INE +27 189
+>Quackle: ABESTTX M10 TABS +59 261
+>New_Player_1: EMOOOPR J2 OOM +19 208
+>Quackle: ?ADEETX 1H rETAXED +122 383
+>New_Player_1: EGLOPPR 14B GOLPE +21 229
+>Quackle: AADENSW H11 .W.NE +53 436
+>New_Player_1: EILPRRY 15A YIP +31 260
+>Quackle: AADLOSU 12L O.A +14 450
+>New_Player_1: EILNRRS I7 R.. +5 265
+>Quackle: ADELLSU O6 ALUDELS +84 534
+>New_Player_1: EILNORS G8 ..L. +11 276
+>Quackle: GIIORSV L1 .I +9 543
+>New_Player_1: EINOQRS D12 RO.E +20 296
+>Quackle: GINORSV 6J V... +15 558
+>New_Player_1: IIKNQST 13C K. +30 326
+>Quackle: FGINORS F13 ..F +6 564
+>New_Player_1: IINQSTV J13 .S +10 336
+>Quackle: GINORRS I1 .N +4 568
+>New_Player_1: IINQTV 2N IT +10 346
+>Quackle: GIORRS 15J ORG +9 577
+>New_Player_1: INQV 15F .I. +6 352
+>Quackle: IRS 4J ....S +9 586
+>New_Player_1: NQV -  +0 352
+>Quackle: IR 9N I. +3 589
+>New_Player_1: NQV -  +0 352
+>Quackle: R -  +0 589
+>New_Player_1: NQV -  +0 352
+>Quackle: R -  +0 589
+>New_Player_1: NQV -  +0 352
+>Quackle: R -  +0 589
+>Quackle: R (R) +-1 588

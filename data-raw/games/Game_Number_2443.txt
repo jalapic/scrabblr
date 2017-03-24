@@ -1,0 +1,31 @@
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: CEPRUUW -UUW +0 0
+>New_Player_1: EGNOSTU 8G TONGUES +68 68
+>Quackle: CEEIIPR M1 EPICIER. +76 76
+>New_Player_1: ?AESUVW 1G UnWEAV.S +101 169
+>Quackle: DGHILUY 4K DU.HY +36 112
+>New_Player_1: ?DEEHIU 2I EH +31 200
+>Quackle: GIILLNZ 6L L.Z +32 144
+>New_Player_1: ?ADEEIU 5E AUDItEE +84 284
+>Quackle: AGIILNS 2A SAILING +73 217
+>New_Player_1: AEEIOPS A1 P.OAE +24 308
+>Quackle: AEFNORT 6I OF +27 244
+>New_Player_1: AEIILSY 3H AY +22 330
+>Quackle: ACEMNRT 6D CAM +25 269
+>New_Player_1: DEEIILS N1 .ID. +27 357
+>Quackle: EJNRRTT C1 J.N +20 289
+>New_Player_1: AEEILOS D1 O.EA +22 379
+>Quackle: EEQRRTT K7 Q.EER +28 317
+>New_Player_1: AEILOOS 7M .OO +14 393
+>Quackle: ABIRRTT 10G BIRR.TTA +64 381
+>New_Player_1: AEILNOS 12H ANISOLE +81 474
+>Quackle: BNORTVX 13L BOX +41 422
+>New_Player_1: DFIMRTW E1 W.T +22 496
+>Quackle: GKNRTTV C1 ...K +21 443
+>New_Player_1: DFILMNR N10 .L..IN +26 522
+>Quackle: GNRTTV O7 .RG +12 455
+>New_Player_1: DFMR H3 .M.D +17 539
+>Quackle: NTTV F4 V.. +8 463
+>New_Player_1: FR 9J R.F +16 555
+>New_Player_1:  (NTT) +6 561

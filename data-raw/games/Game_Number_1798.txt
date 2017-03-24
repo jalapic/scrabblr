@@ -1,0 +1,29 @@
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: DLORSSU 8D DUROS +16 16
+>New_Player_1: EINNTYY 9G YIN +22 22
+>Quackle: AEELOSU E5 EUO.AES +28 44
+>New_Player_1: EIMNQTY 6D Q.YTE +25 47
+>Quackle: ?AIILOR 5H RAvIOLI +64 108
+>New_Player_1: ACIMNRT 10H MANTRIC +76 123
+>Quackle: AEEJMRV 4L JAM +48 156
+>New_Player_1: IKNNOVW 10B VIN.W +27 150
+>Quackle: ADEEERV 11I VEE +24 180
+>New_Player_1: DIIKNOU D10 .UDNIK +34 184
+>Quackle: ADDEERZ 6L RAZE +80 260
+>New_Player_1: GILOOOP 15A POO. +30 214
+>Quackle: DDELOPT I5 .DD +26 286
+>New_Player_1: AEGILNO 11C O.. +5 219
+>Quackle: ELNOPST 12H LEPTONS +85 371
+>New_Player_1: AEEGILN 7E .E +8 227
+>Quackle: ?CEEEFR K5 .CE +21 392
+>New_Player_1: AAEGILN 15A ....A +11 238
+>Quackle: ?EEFRST O1 TEFS +38 430
+>New_Player_1: AEGILNO 14A OIL.NG +34 272
+>Quackle: ?ABEFIR 1H FIrEBRA. +95 525
+>New_Player_1: AAEGILU O6 .AU +9 281
+>Quackle: GHHRTWX M3 G...X +42 567
+>New_Player_1: ABEGILT B8 TA. +6 287
+>Quackle: HHRTW 9A H. +5 572
+>New_Player_1: BEGIL 2D BILGE +15 302
+>New_Player_1:  (HRTW) +20 322

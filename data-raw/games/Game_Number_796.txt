@@ -1,0 +1,29 @@
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: EHIMNST 8G HM +14 14
+>Quackle: AAEKLNO F8 OAK +25 25
+>New_Player_1: EGINSTY G7 T.Y +23 37
+>Quackle: AEGLLNT 9E L.. +6 31
+>New_Player_1: EGINQSV 11D QIS +32 69
+>Quackle: AEGLNOT H7 O. +6 37
+>New_Player_1: EGNNRVW 7G ..WN +11 80
+>Quackle: AEGLMNT H6 M.. +7 44
+>New_Player_1: EGINRUV 12C VIN +36 116
+>Quackle: AEEGLNT J6 E.TANGLE +63 107
+>New_Player_1: EEGORSU 10H GE.EROUS +60 176
+>Quackle: CEERSWZ 9I W.REZ +85 192
+>New_Player_1: DGILRTU 8M DUG +28 204
+>Quackle: ACENOOS 11J .OAS +33 225
+>New_Player_1: DILNRTU 13G UND.RLIT +80 284
+>Quackle: CEEINOO O1 COOEEIN. +86 311
+>New_Player_1: AAAEILR 14I AREA +23 307
+>Quackle: AAFIIRU 15L RAIA +19 330
+>New_Player_1: ABCILSY 15E BIALYS +51 358
+>Quackle: ?BEEFIU C12 .IBE +18 348
+>New_Player_1: CDIJNTV N2 JIN +42 400
+>Quackle: ??EFPTU K1 sTUPEFy +82 430
+>New_Player_1: CDOORTV 15A VO. +18 418
+>Quackle: ADEEFHP 1H PHA.ED +36 466
+>New_Player_1: CDIORTX L3 TIX +39 457
+>Quackle: EFT I1 .EFT +18 484
+>Quackle:  (CDOR) +14 498

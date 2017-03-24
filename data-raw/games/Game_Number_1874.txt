@@ -1,0 +1,25 @@
+#player1 Quackle Quackle
+#player2 New_Player_1 New Player 1
+>Quackle: CEGIOTT 8G GOETIC +24 24
+>New_Player_1: AEGIMNR K4 IMAG.NER +94 94
+>Quackle: AAEIRTY J5 AY +30 54
+>New_Player_1: BLOOPSY L1 BLOOPY +52 146
+>Quackle: AAEFIRT J10 FA +28 82
+>New_Player_1: ELNNORS 12D RONNELS +72 218
+>Quackle: AEEIORT 2H AERO.ITE +70 152
+>New_Player_1: ?DFIIIT O1 D.IF +36 254
+>Quackle: DEJLORV 1D JOLED +72 224
+>New_Player_1: ?AIIQTV F10 QI. +32 286
+>Quackle: ELRRRSV H11 R.VEL +24 248
+>New_Player_1: ?AIITVW 14F VI.W +18 304
+>Quackle: ANNRRSS M1 A.RNS +29 277
+>New_Player_1: ?AAEEIT 3B TAEnIAE +68 372
+>Quackle: CDMNRST E11 M.D +20 297
+>New_Player_1: ?AHOUWZ 2A WUZ +45 417
+>Quackle: CGNRSTU 4C GRUNTS +44 341
+>New_Player_1: ?AAHIOX 13J HOAX +38 455
+>Quackle: CDEEIKT 12L DECK +47 388
+>New_Player_1: ?ABEHIU O12 .UEH +33 488
+>Quackle: EIOPSTT 1A OP +32 420
+>New_Player_1: ?ABINU 7D mIBUNA +18 506
+>New_Player_1:  (EISTT) +10 516

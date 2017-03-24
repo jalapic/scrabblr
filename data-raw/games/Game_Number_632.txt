@@ -1,0 +1,35 @@
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: DDEFOUU 8F FOUD +16 16
+>Quackle: AEEIRTT 9G ITERATE +70 70
+>New_Player_1: BDEGNUU 8K DEBUG +40 56
+>Quackle: EEJLSST 7C JETE +32 102
+>New_Player_1: AEINRUV 8A UVAE +36 92
+>Quackle: ?DLLOSS O8 .OLDLeSS +80 182
+>New_Player_1: GIKLNNR A7 R.NKLING +64 156
+>Quackle: ?AEEMOR H7 A..OMEtER +83 265
+>New_Player_1: EFIPSTY I8 ..FY +23 179
+>Quackle: EGIIMOQ 14M QI. +24 289
+>New_Player_1: AEIPSTW C7 ..W +21 200
+>Quackle: EGHIMNO 15D HOME.ING +68 357
+>New_Player_1: AEIPRST M14 .I +11 211
+>Quackle: ADEHIWZ 10K WAZ +39 396
+>New_Player_1: AAEPRST 14F AP. +15 226
+>Quackle: DEHIINO 13E DHO.I +27 423
+>New_Player_1: ABCERST 12D BAC +28 254
+>Quackle: AEINRRT E11 R.. +8 431
+>New_Player_1: AEOPRST 10E OP +15 269
+>Quackle: AEINNRT K8 ...N +16 447
+>New_Player_1: AAEERST C12 AE +12 281
+>Quackle: AEINRTT F6 T.. +8 455
+>New_Player_1: AEORSTX B14 OX +24 305
+>Quackle: AEINRST 10A .I +7 462
+>New_Player_1: AEORSTV 11C VO. +16 321
+>Quackle: AENRSTY N13 Y.N +13 475
+>New_Player_1: AELRSTU D14 U. +5 326
+>Quackle: ACENRST A6 C........ +16 491
+>New_Player_1: AEILRST 12K SERA. +26 352
+>Quackle: AEINRST N7 N. +2 493
+>New_Player_1: ILT E5 TI. +8 360
+>Quackle: AEIRST G1 ARTIES +11 504
+>Quackle:  (L) +2 506

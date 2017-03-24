@@ -1,0 +1,29 @@
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: BEFOPSW 8G FOB +16 16
+>Quackle: ?AEIORS 9C ISObARE +73 73
+>New_Player_1: AEPRSVW E5 REAV.WS +52 68
+>Quackle: ?ELQRUW C7 QU.LtER +70 143
+>New_Player_1: GHJNOPR 8A GJ. +33 101
+>Quackle: LNPRTTW 12A PL.W +24 167
+>New_Player_1: AHINOPR F6 HA +28 129
+>Quackle: ALNORTT 10E .ONT +21 188
+>New_Player_1: IINNOPR A1 PROININ. +86 215
+>Quackle: AADLLRT A12 .LAT +18 206
+>New_Player_1: CCEEIOT 5C TE.CIO +16 231
+>Quackle: ADDLORV D2 DOV.R +24 230
+>New_Player_1: CEEIIKZ 4H ZEE +43 274
+>Quackle: AADGLMN H1 AMA..N +51 281
+>New_Player_1: CIIKORU C1 OIK +29 303
+>Quackle: DDGLNSY 3F GL.DY +28 309
+>New_Player_1: CEIORUY B12 .OY +25 328
+>Quackle: ADDENSU I1 DU.. +13 322
+>New_Player_1: CEEIRTU F2 U. +4 332
+>Quackle: AADEMNS 2A .A.. +10 332
+>New_Player_1: CEEEIRT D11 E.E +12 344
+>Quackle: ADEIMNS K4 SIDEMAN +83 415
+>New_Player_1: BCEIRTX 8K .IXTE +45 389
+>Quackle: AEEHINT M8 .I +11 426
+>New_Player_1: BCFGIRT O7 B.GIFT +13 402
+>Quackle: AEEHNST 13I ETHANES +87 513
+>Quackle:  (CRU) +10 523
