@@ -1,0 +1,22 @@
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: BENOTUY 8H OUTBYE +30 30
+>Quackle: AEIMPRX 9L AX +39 39
+>New_Player_1: CEFINRV 7M VIN +27 57
+>Quackle: EIIMOPR O3 IMPO.E +39 78
+>New_Player_1: CEEFNOR N9 ENFORCE +88 145
+>Quackle: AAIJLRR 15J JAIL.R +42 120
+>New_Player_1: AAENNQU J2 QUANNE. +38 183
+>Quackle: ADENOPR 13G PARDONE. +80 200
+>New_Player_1: AAHTTTZ 12H ZA +44 227
+>Quackle: AEGGGIT 5E TAGGI.G +40 240
+>New_Player_1: AEHLTTT N1 TATH +23 250
+>Quackle: DEEILOR 10F REOILED +69 309
+>New_Player_1: AEELRTU 1L LU.E +15 265
+>Quackle: FIOORSY D1 YOOFS +41 350
+>New_Player_1: ADEIRTT 11A ATTIRED +71 336
+>Quackle: ?AHIRSU 9B gUARISH +75 425
+>New_Player_1: ?DEMOSV 12L OM.V +34 370
+>Quackle: BIIKNWW C1 KIWI +48 473
+>New_Player_1: ?CDEELS 14B DELiCES +96 466
+>New_Player_1:  (BNSW) +18 484

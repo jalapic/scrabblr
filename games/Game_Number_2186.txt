@@ -1,0 +1,25 @@
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: ACDILOT 8D COTIDAL +76 76
+>Quackle: ?ABCEQV F6 QA. +32 32
+>New_Player_1: ABLNOSW J2 SNOWBA.L +71 147
+>Quackle: ?BCEERV 4F BEdC.VER +78 110
+>New_Player_1: DEEJMTY E7 J.YED +41 188
+>Quackle: EINOOSZ 2E OZONI.ES +87 197
+>New_Player_1: AEGIMRT M4 .AGTIMER +65 253
+>Quackle: ?FNOPTW 9G FOW. +39 236
+>New_Player_1: EGGHIIL F10 HIGGLE +37 290
+>Quackle: ?NNPRTU 15C UNP.NT +27 263
+>New_Player_1: DHIIOVY 1A HYOID +42 332
+>Quackle: ?EEKNRT 12H RENKEsT +83 346
+>New_Player_1: AFINSTV 8L V.TA +33 365
+>Quackle: EEPSTUU K10 PU.U +20 366
+>New_Player_1: FIMNORS 1K FORMS +41 406
+>Quackle: AEELOST K4 .OE +26 392
+>New_Player_1: EEIINRX N8 .IX +55 461
+>Quackle: AAELSTU 2A EAU +23 415
+>New_Player_1: AEEINRR L8 .AR +24 485
+>Quackle: ADIILST 1G LID +23 438
+>New_Player_1: AEEINR 3B ERNE +24 509
+>Quackle: AIST N1 .AIST +31 469
+>Quackle:  (AI) +4 473

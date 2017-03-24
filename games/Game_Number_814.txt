@@ -1,0 +1,25 @@
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: BEIILTU 8D BUILT +20 20
+>Quackle: EIMMRUU 7H UMU +10 10
+>New_Player_1: EGIORTY 6H GOY +36 56
+>Quackle: AEIMRRS 5I MARRIES +81 91
+>New_Player_1: EEIOPRT L3 PO.TIERE +72 128
+>Quackle: FHLNOVW O1 HOWF. +54 145
+>New_Player_1: AEIRSTY D8 .ESTIARY +84 212
+>Quackle: ?ALNPQV 13C t.LAQ +66 211
+>New_Player_1: AAEGHIS H10 GEISHA +47 259
+>Quackle: CDEGNPV 11G V.NGED +34 245
+>New_Player_1: AAAIJLN N2 JA +41 300
+>Quackle: CEIOPRT 15H .PORETIC +89 334
+>New_Player_1: AAILNNN F10 NAN. +18 318
+>Quackle: DEIKOTZ 15A DOZ. +51 385
+>New_Player_1: AILNOSV 9B AV. +14 332
+>Quackle: ?AEIKOT A8 KErATOI. +96 481
+>New_Player_1: ILLNORS 14J LORIS +25 357
+>Quackle: BDDEFNO 13K FOB +35 516
+>New_Player_1: AEILNNU I9 NU. +7 364
+>Quackle: DDEEENX 8L .XED +36 552
+>New_Player_1: ACEILNW K8 WAN. +27 391
+>Quackle: DEENT E3 DETEN. +14 566
+>Quackle:  (CEIL) +12 578

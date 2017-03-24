@@ -1,0 +1,29 @@
+#player1 New_Player_1 New Player 1
+#player2 Quackle Quackle
+>New_Player_1: AAEIIOT -AAIIO +0 0
+>Quackle: AEOPTUW 8G WOP +16 16
+>New_Player_1: ADEEEOT 9G ODEA +21 21
+>Quackle: AELLTTU 10E LUTEAL +29 45
+>New_Player_1: AEEOTUV E7 OVU.ATE +20 41
+>Quackle: ?AHJLNT D11 JA +31 76
+>New_Player_1: EEEEFOU -EEEFOU +0 41
+>Quackle: ?HLMNTT 13D M.TH +29 105
+>New_Player_1: AEFIIMS 11J FIE +18 59
+>Quackle: ?FLNRST 7C FL.RS +25 130
+>New_Player_1: AIMNNSU 12L MAUN +22 81
+>Quackle: ?EINNTT M8 INTr.NET +74 204
+>New_Player_1: DEGINSX 8K EX.NG +63 144
+>Quackle: ABIOSUV 14B VIBS +44 248
+>New_Player_1: ACCDEIS 15I ACCI.ED +39 183
+>Quackle: AEHOOQU 8A QUA +41 289
+>New_Player_1: DEKNRSY 14L K.Y +36 219
+>Quackle: BEHOORR 7J RHO +20 309
+>New_Player_1: DEINORS 12A DER..IONS +70 289
+>Quackle: ?BDEGOR 6L GOB +20 329
+>New_Player_1: EGIILOY 9C YO. +31 320
+>Quackle: ?ADEERS O3 pRESA.ED +67 396
+>New_Player_1: EGIILPR B10 GI. +6 326
+>Quackle: AINORTZ 6B ZO +31 427
+>New_Player_1: EIILPRW D4 PIL. +24 350
+>Quackle: AEINRT 4I TRAINE. +14 441
+>Quackle:  (EIRW) +14 455
