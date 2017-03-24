@@ -15,7 +15,7 @@ board_words <- function(m){
     return(gtx1)
   }
 
-  m <- matrix_dots(m)
+  m <- board_dots(m)
   allwords <- c(unlist(apply(m,1,words_in_mat)),unlist(apply(m,2,words_in_mat)))
   allwords <-  as.vector(toupper(allwords))
   return(allwords)
